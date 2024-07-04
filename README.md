@@ -1,4 +1,4 @@
-The restaurant project, built with the MERN stack, includes user account creation and profile updates. Users can manage their cart before checkout, while admins have exclusive access to manage menu items, view user details, and handle orders. The project features a checkout page with Stripe payment integration and form validation, and supports user authentication with Google login and cart functionality.
+The restaurant project, built with the MERN stack, includes user account creation and profile updates. Users can manage their cart before checkout, while admins have exclusive access to manage menu items, view user details, and handle orders. The project features form validation and supports user authentication with Google login and cart functionality.
 Tech Stack : Next.js, TailwindCSS, MongoDB, Express.js, React Tools
 
 

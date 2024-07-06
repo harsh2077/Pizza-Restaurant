@@ -19,7 +19,6 @@ export function cartProductPrice(cartProduct) {
 }
 
 export function AppProvider({children}) {
-  const [cartProducts,setCartProducts] = useState([]);
 
   const ls = typeof window !== 'undefined' ? window.localStorage : null;
 
